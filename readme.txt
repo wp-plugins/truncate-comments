@@ -1,5 +1,5 @@
 === Truncate Comments ===
-Contributors: flector
+Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
 Tags: comment, hide comment, truncate, content hidden, hide content, partially display content, truncate content, visible content, collapse, collapsible, collapsing, expand, expandable, expanding
 Requires at least: 3.0
