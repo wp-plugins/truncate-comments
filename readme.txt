@@ -14,7 +14,7 @@ The plugin uses Javascript to hide long comments (Amazon-style comments).
 
 If you liked my plugin, please `rate` it.
 
-The `Truncate Comments plugin` uses [jQuery Collapser](http://www.aakashweb.com/jquery-plugins/collapser/) by Aakash Chakravarthy.
+The `Truncate Comments` plugin uses [jQuery Collapser](http://www.aakashweb.com/jquery-plugins/collapser/) by Aakash Chakravarthy.
 
 
 == Installation ==
