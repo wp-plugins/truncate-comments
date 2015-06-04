@@ -4,7 +4,7 @@ Donate link: http://goo.gl/CcxWYg
 Tags: comment, hide comment, truncate, content hidden, hide content, partially display content, truncate content, visible content, collapse, collapsible, collapsing, expand, expandable, expanding
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.00
+Stable tag: trunk
 
 The plugin uses Javascript to hide long comments (Amazon-style comments).
 
