@@ -1,7 +1,7 @@
 === Truncate Comments ===
 Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
-Tags: comment, hide comment, truncate, content hidden, hide content, partially display content, truncate content, visible content, collapse, collapsible, collapsing, expand, expandable, expanding
+Tags: comment, comments, hide comment, truncate, hide content, collapse, collapsible, collapsing, expand, expandable, expanding, amazon, read more, query, javascript, collapser, plugin, wordpress, more, read, seo, community, ajax, theme, themes, commenting, comment form
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: trunk
