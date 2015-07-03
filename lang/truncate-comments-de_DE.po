@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Truncate Comments ru_RU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-02 15:55+0300\n"
+"PO-Revision-Date: 2015-06-28 22:08+0200\n"
+"Last-Translator: ezkay\n"
+"Language-Team: Flector <rlector@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../truncate-comments.php:16
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: ../truncate-comments.php:30
+msgid "Settings"
+msgstr "Einstellungen"
+
+# @ default
+#: ../truncate-comments.php:98
+msgid "Options saved."
+msgstr "Optionen gespeichert."
+
+#: ../truncate-comments.php:101
+msgid "Truncate Comments Settings"
+msgstr "Truncate Comments - Einstellungen"
+
+#: ../truncate-comments.php:112
+msgid "Click to open/close"
+msgstr "Klicken zum öffnen/schließen"
+
+#: ../truncate-comments.php:115
+msgid "Do you like this plugin ?"
+msgstr "Gefällt dir dieses Plugin?"
+
+#: ../truncate-comments.php:117
+msgid "buy me a coffee"
+msgstr "spendiere mir einen Kaffee"
+
+#: ../truncate-comments.php:119
+msgid "Hi! I'm <strong>Flector</strong>, developer of this plugin."
+msgstr "Hi! Ich bin <strong>Flector</strong>, Entwickler dieses Plugins."
+
+#: ../truncate-comments.php:120
+msgid "I've been spending many hours to develop this plugin."
+msgstr "Ich habe mehrere Stunden damit verbracht, dieses Plugin zu entwickeln."
+
+#: ../truncate-comments.php:121
+msgid ""
+"If you like and use this plugin, you can <strong>buy me a cup of coffee</"
+"strong>."
+msgstr ""
+"Wenn du dieses Plugin benutzt und es dir gefällt, kannst du mir <strong>eine "
+"Tasse Kaffe spendieren</strong>."
+
+#: ../truncate-comments.php:125
+msgid "Donate with PayPal"
+msgstr "Spende via PayPal"
+
+#: ../truncate-comments.php:136
+msgid "General Options"
+msgstr "Allgemeine Einstellungen"
+
+#: ../truncate-comments.php:142
+msgid "Collapse comments:"
+msgstr "Kommentare einklappen:"
+
+#: ../truncate-comments.php:145
+msgid "Characters"
+msgstr "Zeichen"
+
+#: ../truncate-comments.php:146
+msgid "Words"
+msgstr "Worte"
+
+#: ../truncate-comments.php:147
+msgid "Lines"
+msgstr "Zeilen"
+
+#: ../truncate-comments.php:151
+msgid "<strong>Characters</strong>: to truncate characters."
+msgstr "<strong>Zeichen</strong>: nach Zeichen einklappen."
+
+#: ../truncate-comments.php:152
+msgid "<strong>Words</strong>: to truncate words."
+msgstr "<strong>Worte</strong>: nach Worten einklappen."
+
+#: ../truncate-comments.php:153
+msgid "<strong>Lines</strong>: to truncate lines."
+msgstr "<strong>Zeilen</strong>: nach Zeilen einklappen."
+
+#: ../truncate-comments.php:160
+msgid "Comment length:"
+msgstr "Länge des Kommentars:"
+
+#: ../truncate-comments.php:162
+msgid "Length in characters, words or lines."
+msgstr "Länge in Zeichen, Worten oder Zeilen."
+
+#: ../truncate-comments.php:167
+msgid "Ellipsis:"
+msgstr "Ellipse:"
+
+#: ../truncate-comments.php:169
+msgid ""
+"The text displayed next to the hidden comment to indicate the presence of "
+"more content."
+msgstr ""
+"Darstellung der Ellipse um die Auslassung des restlichen Textes anzuzeigen."
+
+#: ../truncate-comments.php:174
+msgid "\"Read more\" text:"
+msgstr "„Weiterlesen“ Text:"
+
+#: ../truncate-comments.php:176
+msgid "The link that expands a collapsed comment."
+msgstr "Der Link, der den Kommentar ausklappen lässt."
+
+#: ../truncate-comments.php:181
+msgid "Speed:"
+msgstr "Geschwindigkeit:"
+
+#: ../truncate-comments.php:183
+msgid ""
+"The speed (duration) of a comment's vertical collapse (in milliseconds)."
+msgstr ""
+"Die Geschwindigkeit (Dauer) zum vertikalen ausklappen (in Millisekunden). "
+
+#: ../truncate-comments.php:191 ../truncate-comments.php:218
+msgid "Update options &raquo;"
+msgstr "Einstellungen aktualisieren."
+
+#: ../truncate-comments.php:203
+msgid "Advanced Options"
+msgstr "Erweiterte Einstellungen"
+
+#: ../truncate-comments.php:210
+msgid "Don't load jQuery"
+msgstr "jQuery nicht laden"
+
+#: ../truncate-comments.php:210
+msgid "Don't load jQuery if it's included in your theme."
+msgstr "jQuery nicht laden, wenn es durch den Theme geladen wird"
+
+#: ../truncate-comments.php:214
+msgid "Load the plugin script on single pages only"
+msgstr "Lade das Plugin nur auf Single Pages"
+
+#: ../truncate-comments.php:214
+msgid ""
+"Load the plugin script only on single pages (to avoid loading the script on "
+"pages with no comments on them)."
+msgstr ""
+"Lade das Plugin nur auf Single Pages (um das laden des Scripts auf Seiten "
+"ohne Kommentare zu verhindern)."
+
+#: ../truncate-comments.php:230
+msgid "About"
+msgstr "Über dieses Plugin:"
+
+#: ../truncate-comments.php:233
+msgid ""
+"The <strong>Truncate Comments</strong> plugin uses <a target=\"_blank\" href="
+"\"http://www.aakashweb.com/jquery-plugins/collapser/\">jQuery Collapser</a> "
+"by Aakash Chakravarthy."
+msgstr ""
+"Das <strong>Truncate Comments</strong> Plugin benutzt <a target=\"_blank\" "
+"href=\"http://www.aakashweb.com/jquery-plugins/collapser/\">jQuery "
+"Collapser</a> von Aakash Chakravarthy."
+
+msgid "Cut comments by:"
+msgstr "Beschneide Kommentare nach:"

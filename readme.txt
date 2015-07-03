@@ -50,5 +50,8 @@ Yes, please send your localization files (.mo и .po) to rlector@gmail.com.
 
 == Changelog ==
 
+= 1.01 =
+* added German translation (thanks to [ezkay](https://wordpress.org/support/profile/ezkay))
+
 = 1.00 =
 * first public version

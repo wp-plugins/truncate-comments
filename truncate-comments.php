@@ -3,7 +3,7 @@
 Plugin Name: Truncate Comments
 Plugin URI: https://wordpress.org/plugins/truncate-comments/
 Description: The plugin uses Javascript to hide long comments (Amazon-style comments).
-Version: 1.00
+Version: 1.01
 Author: Flector
 Author URI: https://profiles.wordpress.org/flector#content-plugins
 */ 
