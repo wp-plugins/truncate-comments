@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
 Tags: comment, comments, hide comment, truncate, hide content, collapse, collapsible, collapsing, expand, expandable, expanding, amazon, read more, query, javascript, collapser, plugin, wordpress, more, read, seo, community, ajax, theme, themes, commenting, comment form
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 
 The plugin uses Javascript to hide long comments (Amazon-style comments).
